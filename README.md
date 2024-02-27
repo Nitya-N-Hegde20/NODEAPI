@@ -1,1 +1,3 @@
 # NODEAPI
+
+The "nodeapi" project is a Node.js application built with Express.js, a powerful web application framework. It leverages MongoDB as the database, and Mongoose, an Object Data Modeling (ODM) library, facilitates seamless interaction with MongoDB. This setup streamlines the development of robust and scalable web applications. The project includes the Nodemon development dependency, enhancing the development workflow by automatically restarting the server upon detecting changes in the source code. With a clear project structure and the ability to efficiently manage server updates during development, "nodeapi" offers a solid foundation for building dynamic and responsive web applications.
